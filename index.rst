@@ -270,6 +270,7 @@ Full Table of Contents
    tracker
    triaging
    communication
+   sprints
    coredev
    developers
    committing
